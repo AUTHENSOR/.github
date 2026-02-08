@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security report
+    url: https://github.com/AUTHENSOR/.github/security/policy
+    about: Please report security issues privately.
+  - name: Questions / support
+    url: https://github.com/AUTHENSOR
+    about: If Discussions are enabled, prefer asking there.
