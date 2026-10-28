@@ -47,11 +47,12 @@ The ~60 forks on this account are the map: evaluation harnesses, agent
 benchmarks, judges, adversarial tooling, and frameworks we've read line by
 line. Fork presence means **studied**. Not "endorsed," not "vulnerable."
 
-### The stack
+### Earlier work
 
-The open, MIT-licensed safety tooling we built to do our job: SafeClaw,
-policy engine, scanners, monitors. Free forever, on GitHub and npm. Proof
-we ship, and no longer the headline.
+Before this practice, Authensor published an open-source agent-safety
+toolkit: SafeClaw, a policy engine, scanners and monitors. That product line
+is retired and no longer maintained. Its code stays in
+[AUTHENSOR/AUTHENSOR](https://github.com/AUTHENSOR/AUTHENSOR) for reference.
 
 ---
 
